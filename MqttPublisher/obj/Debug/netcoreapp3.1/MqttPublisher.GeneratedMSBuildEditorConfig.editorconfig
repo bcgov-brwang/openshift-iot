@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MqttPublisher
+build_property.ProjectDir = C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\

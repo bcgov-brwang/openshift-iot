@@ -1,0 +1,16 @@
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.exe
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.deps.json
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.runtimeconfig.json
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.runtimeconfig.dev.json
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.dll
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\MqttPublisher.pdb
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\bin\Debug\netcoreapp3.1\M2Mqtt.Net.dll
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.csproj.AssemblyReference.cache
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.AssemblyInfoInputs.cache
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.AssemblyInfo.cs
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.csproj.CoreCompileInputs.cache
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.csproj.CopyComplete
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.dll
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.pdb
+C:\Users\BRWANG\source\repos\ConsoleApp2\MqttPublisher\obj\Debug\netcoreapp3.1\MqttPublisher.genruntimeconfig.cache
