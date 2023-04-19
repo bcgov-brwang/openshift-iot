@@ -28,7 +28,7 @@ namespace MqttPublisher
 
             string BrokerAddress = "127.0.0.1";
             BrokerAddress = "172.29.7.194";
-            client = new MqttClient(BrokerAddress, 31800, secure: false, null, null, MqttSslProtocols.None);
+            client = new MqttClient(BrokerAddress, 1883, secure: false, null, null, MqttSslProtocols.None);
 
 
             // use a unique id as client id, each time we start the application
