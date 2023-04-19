@@ -9,6 +9,7 @@ WORKDIR /app
 
 # Copy the published output of the .NET Core app to the container
 COPY bin/Debug/netcoreapp3.1/ .
+COPY Dockerfile /tmp/build/inputs/Dockerfile
 
 # Expose port 80 to the world outside this container
 #EXPOSE 80
