@@ -29,8 +29,8 @@ namespace MqttPublisher
             string BrokerAddress = "127.0.0.1";
             BrokerAddress = "172.29.7.194";
             //BrokerAddress = "172.30.83.109";
-            client = new MqttClient(BrokerAddress, 1883, secure: false, null, null, MqttSslProtocols.None);
-            //client = new MqttClient("mosquitto-host");
+            //client = new MqttClient(BrokerAddress, 1883, secure: false, null, null, MqttSslProtocols.None);
+            client = new MqttClient("mosquitto-myproject.142.35.12.133.nip.io");
 
 
             // use a unique id as client id, each time we start the application
