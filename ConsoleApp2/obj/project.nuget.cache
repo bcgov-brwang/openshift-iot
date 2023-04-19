@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QFSZ855K6HS9UaTWlZZNYd44+o/VSPBvBqJufuLyBFvwntHyYz2WezWS6RMlC1a5xPONPtj5BdvXRObz8uHOjg==",
+  "dgSpecHash": "W2V5/A8EjM9X5AI0QzyUnUm2fzC2TRwhUtAgZBQzbnPh4ReZtd8uPVGK/8ChxGtWoF7N1i3p3CnzUOcf17C6yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Work\\openshift-iot\\openshift-iot\\ConsoleApp2\\ConsoleApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

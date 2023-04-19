@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\MqttPublisher.csproj": {}
+    "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\MqttPublisher.csproj": {
+    "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\MqttPublisher.csproj",
+        "projectUniqueName": "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj",
         "projectName": "MqttPublisher",
-        "projectPath": "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\MqttPublisher.csproj",
+        "projectPath": "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj",
         "packagesPath": "C:\\Users\\BRWANG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\obj\\",
+        "outputPath": "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

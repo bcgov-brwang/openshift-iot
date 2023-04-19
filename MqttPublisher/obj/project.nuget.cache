@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJdRhdC6uRnze8uMi9y8OHmuq1EfgzJTXFzgkPz0SaqcXKJih3xTVXmeIkaNTB8/RtYhTyUPvHl085Vrk2cpkw==",
+  "dgSpecHash": "bPYx+hqIBsSQJGfum+By6cOtMQDIoOl87U2LB7Y/ay1Q0DhPO9Ey3AumHJjyEwxXZTpX4w3byr0QUlUjBNEN4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRWANG\\source\\repos\\ConsoleApp2\\MqttPublisher\\MqttPublisher.csproj",
+  "projectFilePath": "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRWANG\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512"
   ],
