@@ -13,7 +13,8 @@ namespace MqttPublisher
         static void Main(string[] args)
         {
             Console.WriteLine("Mosquitto publisher!");
-            Publish();
+            //Publish();
+            Console.ReadKey();
         }
 
         static void Publish()
