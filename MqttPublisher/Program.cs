@@ -13,23 +13,22 @@ namespace MqttPublisher
         static void Main(string[] args)
         {
             Console.WriteLine("Mosquitto publisher!");
-            //Publish();
+            Publish();
             //Console.ReadKey();
-            while (true)
-            {
-                string formattedDate = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(formattedDate);
-                System.Threading.Thread.Sleep(1000);
-            }
+            //while (true)
+            //{
+            //    string formattedDate = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            //    Console.WriteLine(formattedDate);
+            //    System.Threading.Thread.Sleep(1000);
+            //}
         }
 
         static void Publish()
         {
 
             string BrokerAddress = "127.0.0.1";
-            //BrokerAddress = "172.29.7.194";
-
-            client = new MqttClient(BrokerAddress);
+            BrokerAddress = "172.29.7.194";
+            client = new MqttClient(BrokerAddress, 31800, secure: false, null, null, MqttSslProtocols.None);
 
 
             // use a unique id as client id, each time we start the application
