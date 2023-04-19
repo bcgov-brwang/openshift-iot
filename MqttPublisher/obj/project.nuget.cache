@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bPYx+hqIBsSQJGfum+By6cOtMQDIoOl87U2LB7Y/ay1Q0DhPO9Ey3AumHJjyEwxXZTpX4w3byr0QUlUjBNEN4Q==",
+  "dgSpecHash": "P7CBhvsvBp10HPSjINnooFItuT0qxMvAXpdSTJIy2x0vDa7XJzvVS/lGClCf9blen8pWJmiNzU4yCYTw8hDLAg==",
   "success": true,
   "projectFilePath": "C:\\Work\\openshift-iot\\openshift-iot\\MqttPublisher\\MqttPublisher.csproj",
   "expectedPackageFiles": [
@@ -11,10 +11,10 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'M2Mqtt 4.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "Package 'M2Mqtt 4.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "M2Mqtt",
       "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
+        "net6.0"
       ]
     }
   ]

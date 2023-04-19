@@ -18,8 +18,8 @@ namespace MqttSubscriber
         static void Subscribe()
         {
 
-            //string BrokerAddress = "127.0.0.1";
-            string BrokerAddress = "172.29.7.194";
+            string BrokerAddress = "127.0.0.1";
+            //BrokerAddress = "172.29.7.194";
 
             client = new MqttClient(BrokerAddress);
 

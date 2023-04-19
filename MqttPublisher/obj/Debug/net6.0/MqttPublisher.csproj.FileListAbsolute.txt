@@ -1,0 +1,17 @@
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\MqttPublisher.exe
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\MqttPublisher.deps.json
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\MqttPublisher.runtimeconfig.json
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\MqttPublisher.dll
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\MqttPublisher.pdb
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\bin\Debug\net6.0\M2Mqtt.Net.dll
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.csproj.AssemblyReference.cache
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.AssemblyInfoInputs.cache
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.AssemblyInfo.cs
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.csproj.CoreCompileInputs.cache
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.csproj.CopyComplete
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.dll
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\refint\MqttPublisher.dll
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.pdb
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\MqttPublisher.genruntimeconfig.cache
+C:\Work\openshift-iot\openshift-iot\MqttPublisher\obj\Debug\net6.0\ref\MqttPublisher.dll
