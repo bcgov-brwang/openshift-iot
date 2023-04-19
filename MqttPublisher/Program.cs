@@ -14,7 +14,13 @@ namespace MqttPublisher
         {
             Console.WriteLine("Mosquitto publisher!");
             //Publish();
-            Console.ReadKey();
+            //Console.ReadKey();
+            while (true)
+            {
+                string formattedDate = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                Console.WriteLine(formattedDate);
+                System.Threading.Thread.Sleep(1000);
+            }
         }
 
         static void Publish()
